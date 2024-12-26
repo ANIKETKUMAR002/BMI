@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ANIKETKUMAR002/BMI/static/css/main.e180d080.css",
+    "main.js": "/ANIKETKUMAR002/BMI/static/js/main.74e7aaf5.js",
+    "index.html": "/ANIKETKUMAR002/BMI/index.html",
+    "main.e180d080.css.map": "/ANIKETKUMAR002/BMI/static/css/main.e180d080.css.map",
+    "main.74e7aaf5.js.map": "/ANIKETKUMAR002/BMI/static/js/main.74e7aaf5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e180d080.css",
+    "static/js/main.74e7aaf5.js"
+  ]
+}
